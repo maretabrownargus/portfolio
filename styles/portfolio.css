@@ -76,6 +76,27 @@ h6 {
   padding: 120px 60px 0;
 }
 
+.about-section {
+  padding: 160px 20px;
+  margin: 30px;
+}
+.about-section h1 {
+  font-size: 64px;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+.about-section h2 {
+  font-size: 20px;
+}
+
+.about-section p {
+  font-size: 15px;
+}
+
+img {
+  border-radius: 7%;
+}
 @media (max-width: 960px) {
   h1 {
     font-size: 44px;
