@@ -159,6 +159,10 @@ footer .social-links a:hover {
   background: var(--branding-color);
 }
 
+.open-source {
+  text-align: center;
+}
+
 @media (max-width: 960px) {
   h1 {
     font-size: 44px;
